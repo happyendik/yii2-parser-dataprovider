@@ -1,0 +1,22 @@
+{
+    "name": "happyendik/yii2-parser-dataprovider",
+    "description": "",
+    "type": "yii2-extension",
+    "keywords": [
+        "yii2",
+        "parser"
+    ],
+    "license": "MIT",
+    "authors": [
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "yiisoft/yii2": "~2.0.0",
+        "keltstr/yii2-simplehtmldom": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "happyendik\\": ""
+        }
+    }
+}
