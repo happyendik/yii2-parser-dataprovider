@@ -1,6 +1,6 @@
 <?php
 
-namespace happyendik\ParserDataProvider;
+namespace happyendik;
 
 use yii\data\BaseDataProvider;
 
